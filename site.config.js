@@ -6,7 +6,7 @@ const CONFIG = {
     role: "teacher",
     bio: "Minds of a kind of low-end population",
     email: "a6@outlook.at",
-    linkedin: "PrestonLiu",
+    linkedin: "preston-lau-51b830161",
     github: "2ndMessiah",
     instagram: "real.preston.liu",
   },
